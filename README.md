@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hicham
+- 👋 Hi, I’m Hicham
 - 👀 I’m interested in Machine Learning Enginneering, Data Engineering and Deep Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on interested in AI and Finance  projects.
